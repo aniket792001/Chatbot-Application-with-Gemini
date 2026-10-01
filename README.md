@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 # Chatbot-Application-with-Gemini
 
 # ⚡ Gemini Flash-Lite Intelligence Portal
@@ -32,5 +31,3 @@ A full-stack, professional AI chatbot platform built with **LangChain**, **Googl
 └── users.db            # Local database (Generated automatically)
 =======
 # Chatbot-Application-with-Gemini 
-# Chatbot-Application-with-claude
->>>>>>> Stashed changes
